@@ -1,32 +1,89 @@
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=30&pause=1000&color=FFFFFF&width=435&lines=+cyber+sec+spesialist;The+world+is+yours." alt="Typing SVG" /></a>
+</div>
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=Prata-del&style=flat-square&color=000000&label=PROFILE+VIEWS)
+
+
+---
+
+<br/><br/>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <!-- Menggunakan font Fira Code (style terminal) & warna hijau neon matrix -->
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=2000&color=00FF66&center=true&vCenter=true&width=500&lines=$+sudo+show+my+github;Access+Granted!+Loading+profile..." alt="Terminal Typing SVG" />
-  </a>
+
+<table width="100%">
+<tr>
+
+<td align="left" width="50%">
+
+<div style="background-color:#111; padding:20px 25px; border-radius:12px;">
+
+<pre>
+◈  Class     →  Backend / Full-Stack Apprentice
+◈  Origin    →  Brazil 🇧🇷
+</pre>
+
 </div>
+
+</td>
+
+<td align="right" width="50%">
+
+<div style="border-radius:18px; overflow:hidden;">
+
+<img 
+  width="400"
+  src="https://github.com/user-attachments/assets/5c6ffe80-cef0-40ed-ba4c-6b2b836594ea"
+/>
+
+</div>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br/><br/>
+## Technologies
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=FFFFFF)
+![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
+![PHP](https://img.shields.io/badge/PHP-111?style=for-the-badge&logo=php&logoColor=FFFFFF)
+![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=java&logoColor=FFFFFF)
+![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=FFFFFF)
+![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=FFFFFF)
+![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![VSCode](https://img.shields.io/badge/VSCode-111?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF)
+
+</div>
+
+
+
+---
+
+<br/><br/>
+
+## Statistics
+<div align="center">
+<img width="300" height="200" alt="Image" src="https://github.com/user-attachments/assets/c5dddf19-1754-4f17-964c-fd367b4b1701" />
+
+<img src="https://streak-stats.demolab.com?user=Prata-del&theme=dark&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=AAAAAA&sideLabels=FFFFFF" alt="streak"/>
 
 <br/>
 
-<!-- LANGSUNG DI BAWAHNYA TAMPIL SKILL & PROFILE -->
+</div>
+
+---
+
+## Contribution Graph
+
 <div align="center">
-  <table width="100%" border="0">
-    <tr>
-      <td align="left" width="50%" valign="middle">
-        <div style="background-color:#0d0d0d; padding:20px 25px; border-radius:12px; border: 1px solid #2a2a2a;">
-<pre style="color: #00FF66;">
-[root@system ~]# cat profile.txt
-◈  Class    →  Pentester | Cyber Sec
-◈  Origin   →  Indonesia 🇮🇩
-◈  Status   →  Active
-</pre>
-        </div>
-      </td>
-      <td align="right" width="50%" valign="middle">
-        <div style="border-radius:12px; overflow:hidden;">
-          <img width="400" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyY3BjazY2bGp3eHcxYWp5Z3NoeDAyaWtya3p3Y3Blc3FpNWZ0ZnZ6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3QegDkfeLfRUA/giphy.gif" alt="Header GIF" />
-        </div>
-      </td>
-    </tr>
-  </table>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prata-del&bg_color=0d0d0d&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=333333&hide_border=false&border_color=2a2a2a&title_color=FFFFFF)](https://github.com/Prata-del)
+
 </div>
