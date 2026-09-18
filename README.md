@@ -1,21 +1,22 @@
-<!-- TYPING EFFECT HEADER -->
+<!-- 1. TYPING EFFECT (Tebal, Glow/Blur-like, Tidak Terpotong) -->
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <!-- Menggunakan font 'Share Tech Mono', weight '700', dan warna silver/off-white 'CCCCCC' -->
-    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=28&pause=1000&color=CCCCCC&center=false&vCenter=true&width=600&lines=THE+CYBER+SECURITY+SPECIALIST;SYSTEM+OVERRIDE...;WELCOME+TO+MY+PROFILE!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=26&pause=1000&color=D0D0D0&center=false&vCenter=true&width=1000&lines=THE+CYBER+SECURITY+SPECIALIST;SYSTEM+OVERRIDE...;WELCOME+TO+MY+PROFILE!" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- HEADER SECTION: Tampilan 2 Kolom (Teks & GIF) -->
-<table border="0">
+<!-- 3. TENTANG KU / BIO SECTION (Styling ala Terminal / Cyber) -->
+<table border="0" width="100%">
   <tr>
-    <td width="60%" valign="top">
-      <h3>Hey there! 👋</h3>
-      <p><b>Class:</b> Backend / Full-Stack Apprentice</p>
-      <p><b>Origin:</b> Indonesia 🇮🇩</p>
+    <td width="55%" valign="top">
+      <img src="https://img.shields.io/badge/ABOUT_ME-111111?style=for-the-badge&logo=ghost&logoColor=white" alt="About Me Header" />
+      <br /><br />
+      <p>⚡ <b><code>CLASS   :</code></b> <code>Backend / Full-Stack Apprentice</code></p>
+      <p>🌐 <b><code>ORIGIN  :</code></b> <code>Indonesia 🇮🇩</code></p>
+      <p>🛡️ <b><code>FOCUS   :</code></b> <code>Cyber Security & System Defense</code></p>
     </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyY3BjazY2bGp3eHcxYWp5Z3NoeDAyaWtya3p3Y3Blc3FpNWZ0ZnZ6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3QegDkfeLfRUA/giphy.gif" width="100%" alt="Header GIF" />
+    <td width="45%" align="center" valign="middle">
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyY3BjazY2bGp3eHcxYWp5Z3NoeDAyaWtya3p3Y3Blc3FpNWZ0ZnZ6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3QegDkfeLfRUA/giphy.gif" width="100%" style="border-radius: 8px;" alt="Header GIF" />
     </td>
   </tr>
 </table>
@@ -23,7 +24,7 @@
 <br />
 
 <!-- TECHNOLOGIES SECTION -->
-<h3>Technologies</h3>
+<h3><img src="https://img.shields.io/badge/TECHNOLOGIES-111111?style=for-the-badge&logo=codefactor&logoColor=white" alt="Technologies" /></h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
@@ -37,16 +38,16 @@
 
 <br />
 
-<!-- STATISTICS SECTION -->
-<h3>Statistics</h3>
-<table border="0">
+<!-- 2. STATISTICS SECTION (Dibuat Presisi & Proporsional) -->
+<h3><img src="https://img.shields.io/badge/STATISTICS-111111?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Statistics" /></h3>
+<table border="0" width="100%">
   <tr>
     <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjEx.../giphy2.gif" width="100%" alt="Stats GIF" />
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjEx.../giphy2.gif" width="100%" height="160" style="object-fit: cover; border-radius: 6px;" alt="Stats GIF" />
     </td>
     <td width="60%" align="center" valign="middle">
       <a href="https://github.com/aaronmcnulty/github-readme-streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_KAMU&theme=dark" alt="GitHub Streak" width="100%" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krnw4N&theme=dark&hide_border=true" alt="GitHub Streak" width="100%" height="160" />
       </a>
     </td>
   </tr>
