@@ -1,10 +1,9 @@
+
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=30&pause=1000&color=FFFFFF&width=435&lines=+cyber+sec+spesialist;The+world+is+yours." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=30&pause=1000&color=FFFFFF&width=435&lines=+cyber+security+spesialist;The+world+is+yours." alt="Typing SVG" /></a>
 </div>
 
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Prata-del&style=flat-square&color=000000&label=PROFILE+VIEWS)
-
 
 ---
 
@@ -20,8 +19,8 @@
 <div style="background-color:#111; padding:20px 25px; border-radius:12px;">
 
 <pre>
-◈  Class     →  Backend / Full-Stack Apprentice
-◈  Origin    →  Brazil 🇧🇷
+◈  Class     →  junior pentester
+◈  Origin    →  Indonesia 🇮🇩
 </pre>
 
 </div>
@@ -61,8 +60,6 @@
 ![VSCode](https://img.shields.io/badge/VSCode-111?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF)
 
 </div>
-
-
 
 ---
 
