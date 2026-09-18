@@ -1,7 +1,8 @@
 <!-- TYPING EFFECT HEADER -->
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=false&vCenter=true&width=500&lines=The+Cyber+Security+Specialist;Welcome+to+my+profile!" alt="Typing SVG" />
+    <!-- Menggunakan font 'Share Tech Mono', weight '700', dan warna silver/off-white 'CCCCCC' -->
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=28&pause=1000&color=CCCCCC&center=false&vCenter=true&width=600&lines=THE+CYBER+SECURITY+SPECIALIST;SYSTEM+OVERRIDE...;WELCOME+TO+MY+PROFILE!" alt="Typing SVG" />
   </a>
 </p>
 
@@ -44,7 +45,6 @@
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjEx.../giphy2.gif" width="100%" alt="Stats GIF" />
     </td>
     <td width="60%" align="center" valign="middle">
-      <!-- Jangan lupa ganti USERNAME_KAMU dengan username GitHub milikmu -->
       <a href="https://github.com/aaronmcnulty/github-readme-streak-stats">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_KAMU&theme=dark" alt="GitHub Streak" width="100%" />
       </a>
