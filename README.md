@@ -1,3 +1,4 @@
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=The+Cyber+Security+Specialist;The+world+is+yours." alt="Typing SVG" />
@@ -21,8 +22,8 @@
       </td>
       <td align="right" width="50%" valign="middle">
         <div style="border-radius:18px; overflow:hidden;">
-          <!-- GIF Bagian Atas -->
-          <img width="400" src="https://github.com/user-attachments/assets/5c6ffe80-cef0-40ed-ba4c-6b2b836594ea" alt="Header GIF" />
+          <!-- GIF Bagian Atas Samping Teks -->
+          <img width="400" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyY3BjazY2bGp3eHcxYWp5Z3NoeDAyaWtya3p3Y3Blc3FpNWZ0ZnZ6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3QegDkfeLfRUA/giphy.gif" alt="Header GIF" />
         </div>
       </td>
     </tr>
@@ -52,7 +53,6 @@
 
 ## Statistics
 
-<!-- Bagian Statistik Dibuat 2 Kolom Sejajar agar Proporsional -->
 <div align="center">
   <table width="100%" border="0">
     <tr>
