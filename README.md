@@ -1,3 +1,11 @@
+<!-- TYPING EFFECT HEADER -->
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=false&vCenter=true&width=500&lines=The+Cyber+Security+Specialist;Welcome+to+my+profile!" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- HEADER SECTION: Tampilan 2 Kolom (Teks & GIF) -->
 <table border="0">
   <tr>
     <td width="60%" valign="top">
@@ -13,6 +21,7 @@
 
 <br />
 
+<!-- TECHNOLOGIES SECTION -->
 <h3>Technologies</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -27,6 +36,7 @@
 
 <br />
 
+<!-- STATISTICS SECTION -->
 <h3>Statistics</h3>
 <table border="0">
   <tr>
@@ -34,6 +44,7 @@
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjEx.../giphy2.gif" width="100%" alt="Stats GIF" />
     </td>
     <td width="60%" align="center" valign="middle">
+      <!-- Jangan lupa ganti USERNAME_KAMU dengan username GitHub milikmu -->
       <a href="https://github.com/aaronmcnulty/github-readme-streak-stats">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_KAMU&theme=dark" alt="GitHub Streak" width="100%" />
       </a>
